@@ -15,6 +15,7 @@ Just a curation of links I find noteworthy  on ethereum security on all levels, 
 5. [Security best practices by ConsenSys](https://consensys.github.io/smart-contract-best-practices/)
 6. [Don't use transfer to send value](https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/) 
 7. [Awesome ethereum security resources](https://github.com/crytic/awesome-ethereum-security)
+8. [Smart contract Security by Ethereum.org](https://ethereum.org/en/developers/docs/smart-contracts/security/)
 
 ## Protocol Level 
 
